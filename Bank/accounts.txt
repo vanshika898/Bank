@@ -1,0 +1,24 @@
+Harsh Singh
+Maski Road
+current
+2584
+100
+-----------------------#CUSTOMER#--------------------
+Tanisha Sharma
+45 Ujjain
+current
+3982
+300
+-----------------------#CUSTOMER#--------------------
+Vanshika Nigam 
+61 Freeganj
+savings
+4254
+500
+-----------------------#CUSTOMER#--------------------
+ALisha Rastogi
+123 Nanakheda
+savings
+7320
+200
+-----------------------#CUSTOMER#--------------------
